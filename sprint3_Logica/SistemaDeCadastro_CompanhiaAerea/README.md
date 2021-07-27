@@ -1,0 +1,2 @@
+#Sistema de Cadastro de Comapnhias aereas
+Aplicação para uma companhia aérea onde após logar com a senha "123456" o usuário pode acessar o menu podendo registrar 5 passageiros, ver lista de passageiros ou sair da aplicação

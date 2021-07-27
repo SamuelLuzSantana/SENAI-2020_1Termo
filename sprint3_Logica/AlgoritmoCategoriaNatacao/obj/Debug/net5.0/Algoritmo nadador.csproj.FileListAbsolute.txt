@@ -1,0 +1,16 @@
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\bin\Debug\net5.0\Algoritmo nadador.exe
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\bin\Debug\net5.0\Algoritmo nadador.deps.json
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\bin\Debug\net5.0\Algoritmo nadador.runtimeconfig.json
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\bin\Debug\net5.0\Algoritmo nadador.runtimeconfig.dev.json
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\bin\Debug\net5.0\Algoritmo nadador.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\bin\Debug\net5.0\ref\Algoritmo nadador.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\bin\Debug\net5.0\Algoritmo nadador.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\obj\Debug\net5.0\Algoritmo nadador.csprojAssemblyReference.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\obj\Debug\net5.0\Algoritmo nadador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\obj\Debug\net5.0\Algoritmo nadador.AssemblyInfoInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\obj\Debug\net5.0\Algoritmo nadador.AssemblyInfo.cs
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\obj\Debug\net5.0\Algoritmo nadador.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\obj\Debug\net5.0\Algoritmo nadador.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\obj\Debug\net5.0\ref\Algoritmo nadador.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\obj\Debug\net5.0\Algoritmo nadador.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Algoritmo nadador\obj\Debug\net5.0\Algoritmo nadador.genruntimeconfig.cache

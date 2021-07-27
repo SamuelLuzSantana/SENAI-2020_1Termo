@@ -1,0 +1,16 @@
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\bin\Debug\net5.0\Equação 2grau.exe
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\bin\Debug\net5.0\Equação 2grau.deps.json
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\bin\Debug\net5.0\Equação 2grau.runtimeconfig.json
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\bin\Debug\net5.0\Equação 2grau.runtimeconfig.dev.json
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\bin\Debug\net5.0\Equação 2grau.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\bin\Debug\net5.0\ref\Equação 2grau.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\bin\Debug\net5.0\Equação 2grau.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\obj\Debug\net5.0\Equação 2grau.csprojAssemblyReference.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\obj\Debug\net5.0\Equação 2grau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\obj\Debug\net5.0\Equação 2grau.AssemblyInfoInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\obj\Debug\net5.0\Equação 2grau.AssemblyInfo.cs
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\obj\Debug\net5.0\Equação 2grau.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\obj\Debug\net5.0\Equação 2grau.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\obj\Debug\net5.0\ref\Equação 2grau.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\obj\Debug\net5.0\Equação 2grau.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Equação 2grau\obj\Debug\net5.0\Equação 2grau.genruntimeconfig.cache

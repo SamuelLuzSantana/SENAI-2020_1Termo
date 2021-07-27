@@ -1,0 +1,16 @@
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\obj\Debug\net5.0\Metodos Estáticos.csprojAssemblyReference.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\obj\Debug\net5.0\Metodos Estáticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\obj\Debug\net5.0\Metodos Estáticos.AssemblyInfoInputs.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\obj\Debug\net5.0\Metodos Estáticos.AssemblyInfo.cs
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\obj\Debug\net5.0\Metodos Estáticos.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\bin\Debug\net5.0\Metodos Estáticos.exe
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\bin\Debug\net5.0\Metodos Estáticos.deps.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\bin\Debug\net5.0\Metodos Estáticos.runtimeconfig.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\bin\Debug\net5.0\Metodos Estáticos.runtimeconfig.dev.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\bin\Debug\net5.0\Metodos Estáticos.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\bin\Debug\net5.0\ref\Metodos Estáticos.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\bin\Debug\net5.0\Metodos Estáticos.pdb
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\obj\Debug\net5.0\Metodos Estáticos.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\obj\Debug\net5.0\ref\Metodos Estáticos.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\obj\Debug\net5.0\Metodos Estáticos.pdb
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Metodos Estáticos\obj\Debug\net5.0\Metodos Estáticos.genruntimeconfig.cache

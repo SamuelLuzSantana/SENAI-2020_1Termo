@@ -1,0 +1,16 @@
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\obj\Debug\net5.0\Sistema Orientado a Objetos.csprojAssemblyReference.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\obj\Debug\net5.0\Sistema Orientado a Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\obj\Debug\net5.0\Sistema Orientado a Objetos.AssemblyInfoInputs.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\obj\Debug\net5.0\Sistema Orientado a Objetos.AssemblyInfo.cs
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\obj\Debug\net5.0\Sistema Orientado a Objetos.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\bin\Debug\net5.0\Sistema Orientado a Objetos.exe
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\bin\Debug\net5.0\Sistema Orientado a Objetos.deps.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\bin\Debug\net5.0\Sistema Orientado a Objetos.runtimeconfig.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\bin\Debug\net5.0\Sistema Orientado a Objetos.runtimeconfig.dev.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\bin\Debug\net5.0\Sistema Orientado a Objetos.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\bin\Debug\net5.0\ref\Sistema Orientado a Objetos.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\bin\Debug\net5.0\Sistema Orientado a Objetos.pdb
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\obj\Debug\net5.0\Sistema Orientado a Objetos.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\obj\Debug\net5.0\ref\Sistema Orientado a Objetos.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\obj\Debug\net5.0\Sistema Orientado a Objetos.pdb
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\obj\Debug\net5.0\Sistema Orientado a Objetos.genruntimeconfig.cache

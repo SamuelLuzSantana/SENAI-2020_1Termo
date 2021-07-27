@@ -1,0 +1,13 @@
+C:\Users\dev\Documents\c# - tarde\Data Algoritmo\bin\Debug\netcoreapp3.1\Data Algoritmo.exe
+C:\Users\dev\Documents\c# - tarde\Data Algoritmo\bin\Debug\netcoreapp3.1\Data Algoritmo.deps.json
+C:\Users\dev\Documents\c# - tarde\Data Algoritmo\bin\Debug\netcoreapp3.1\Data Algoritmo.runtimeconfig.json
+C:\Users\dev\Documents\c# - tarde\Data Algoritmo\bin\Debug\netcoreapp3.1\Data Algoritmo.runtimeconfig.dev.json
+C:\Users\dev\Documents\c# - tarde\Data Algoritmo\bin\Debug\netcoreapp3.1\Data Algoritmo.dll
+C:\Users\dev\Documents\c# - tarde\Data Algoritmo\bin\Debug\netcoreapp3.1\Data Algoritmo.pdb
+C:\Users\dev\Documents\c# - tarde\Data Algoritmo\obj\Debug\netcoreapp3.1\Data Algoritmo.csprojAssemblyReference.cache
+C:\Users\dev\Documents\c# - tarde\Data Algoritmo\obj\Debug\netcoreapp3.1\Data Algoritmo.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\c# - tarde\Data Algoritmo\obj\Debug\netcoreapp3.1\Data Algoritmo.AssemblyInfo.cs
+C:\Users\dev\Documents\c# - tarde\Data Algoritmo\obj\Debug\netcoreapp3.1\Data Algoritmo.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\c# - tarde\Data Algoritmo\obj\Debug\netcoreapp3.1\Data Algoritmo.dll
+C:\Users\dev\Documents\c# - tarde\Data Algoritmo\obj\Debug\netcoreapp3.1\Data Algoritmo.pdb
+C:\Users\dev\Documents\c# - tarde\Data Algoritmo\obj\Debug\netcoreapp3.1\Data Algoritmo.genruntimeconfig.cache

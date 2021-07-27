@@ -1,0 +1,241 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.topo{
+    background-color: #F9003d;
+    width: 100%;
+    margin: auto;
+    height: 60px;
+}
+
+.menu{
+    width: 1200px;
+    height: 60px;
+    /* background-color: aquamarine; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menu ul{
+    width: 600px;
+    height: 60px;
+    /*  background-color: green; */
+    list-style: none;
+    display: flex;      
+    flex-direction: row;
+    justify-content: space-between;  
+    align-items: center;
+}
+
+.menu a{
+    color:white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+    padding: 13px 55px;
+}
+
+.menu a:hover{
+    background-color: #0be3e3;
+    text-decoration: underline;
+}
+
+/* BANNER */ 
+
+.banner{
+    width: 100%;
+    height: 550px;
+    background-image: url("../img/imagem-fundo-banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.content{
+    width: 1200px;
+    height: 100%;
+    margin: auto;
+    /* background-color: #ffffff4d; */
+    
+}
+
+.alinhamento{
+    display: flex;
+    align-items: flex-end;
+}
+
+.inf{
+    width: 560px;
+    height: 450px;
+    /* background-color: rgba(0, 0, 139, 0.438); */
+}
+
+.span{
+    margin-left: 20px;
+}
+
+.inf h1{
+    font-size: 95px;
+    font-family: 'bebas Neue', cursive;
+    color: white;    
+}
+
+.inf p{
+    font-family: 'Courier Prime', monospace;
+    font-size: 50px;
+    text-transform: uppercase;
+    color: #F9003d;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.linha{
+    border: solid 1px #ffaf00;
+    width: 100%;
+    margin: 15px 0px;
+}
+
+/* SOBRE */
+
+.sobre{
+    width: 100%;
+    height: 750px;
+    background-color: #080324;
+}
+
+.sobre h2{
+    font-family: 'bebas Neue', cursive;
+    color: #F9003d;
+    font-size: 64px;
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+
+.artigo-sobre{
+    display: flex;
+    justify-content: space-between;
+}
+
+.artigo-sobre img{
+    width: 500px;
+}
+
+.text-sobre{
+    width: 600px;
+    color: #ffff;
+}
+
+.text-sobre h3:nth-child(1){
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.text-sobre h3:nth-child(2){
+    color: #ffaf00;
+    font-size: 64px;
+    font-family: 'bebas Neue', cursive;
+}
+
+.text-sobre p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+/* informações */
+
+.info{
+    width: 100%;
+    height: 200px;
+    background-image: url(../img/imagem-fundo-info.jpg);
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+}
+
+.info h4{
+    color: #ffff;
+    font-size: 20px;
+}
+
+.info p{
+    color: #a259f7;
+    font-size: 28px;
+    border: solid 1px #a259f7;
+    width: 250px;
+    text-align: center;
+    padding: 1em 0px;
+}
+
+.flexe{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* ENDEREÇO */
+
+.endereco{
+    width: 100%;
+    height: 500px; 
+    background-image: url(../img/imagem-fundo-ranking.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.endereco h2{
+    font-size: 64px;
+    font-family: 'bebas Neue', cursive;
+    color: #ffaf00;
+}
+
+.end-text{
+    height: 210px;
+    width: 800px;
+    background-color: #010010;
+    border: solid 2px #340b65;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.end-text p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    color: #a259f7;
+    margin-left: 30px;
+}
+
+
+.alinhamento-centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.end-text img{
+    position: absolute;
+    right: 10px;
+    top: -80px;
+}
+
+/* RODAPÉ */
+
+.rodape{
+    width: 100%;
+    height: 80px;
+    background-color: #F9003d;
+    color: #ffff;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+

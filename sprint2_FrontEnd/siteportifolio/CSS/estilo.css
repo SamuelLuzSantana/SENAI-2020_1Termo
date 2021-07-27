@@ -1,0 +1,353 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.topo{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    margin: auto;
+}
+
+.menu{
+   /*  background-color: cornflowerblue; */
+    width: 900px;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;    
+}
+
+.menu ul{
+    /* background-color: #ecdc0093; */
+    width: 800px;
+    height: 80px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu a{
+    /* background-color: #5c10104b; */
+    color:white;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    padding: 32px 30px;
+}
+
+.menu a:hover{
+    background-color: aquamarine;
+    text-decoration: underline;
+}
+
+/* BANNER */
+
+.content{
+    width: 1100px;
+    height: 100%;
+    margin: auto;
+    /* background-color: #ff000085; */
+}
+
+.alinhamento{
+    /* background-color: #cbf803c9; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto{
+    /* background-color: #0f80bd; */
+     
+    width: 500px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.banner{
+    background-color: #f5f5f5;
+    width: 100%;
+    height: 550px;
+}
+
+.texto h2{
+    font-family: 'robot', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 25px auto;
+}
+
+.texto h1{
+    font-family: 'robot', sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+    padding: 25px auto;
+    text-transform: uppercase;
+}
+
+.texto p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.bt{
+    background-color:#272727;
+    border-radius:9px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+    font-family:'Roboto';
+    font-weight: 500;
+	font-size:20px;
+	padding:7px 18px;
+    text-decoration:none;
+    text-transform: uppercase;
+}
+
+.bt:hover{
+    background-color: aquamarine;
+}
+
+/* SOBRE MIM */
+
+.mim{
+    /* background-color: #0010f08c; */
+    height: 525px;
+    width: 100%; 
+}
+
+
+
+.mim h2{
+    text-align: center;  
+    padding: 35px 0px;
+    font-size: 25px;
+    font-family: 'robot', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.ajustar{
+    display: flex;
+    justify-content: space-between;
+    height: 250px;
+    margin: 40px 0px;
+}
+
+.howdy{
+    /* background-color: green; */
+    width: 900px;
+    height: 500px;
+    /* height: 410px; */
+}
+
+
+
+.howdy h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 0px;
+}
+
+.howdy p{
+    font-family: 'robot', sans-serif;
+    font-weight: 500;
+    width: 425px;
+}
+
+.bt2{
+    background-color:#272727;
+    border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+    font-family:'Roboto';
+    font-weight: 500;
+	font-size:20px;
+	padding:12px 30px;
+    text-decoration:none;
+    text-transform: uppercase;
+    margin-top: 35px;
+}
+
+.bt2:hover{
+    background-color: aquamarine;
+}
+
+.progress{
+   /*  background-color: yellowgreen; */
+    /* width: 900px; */
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    /* padding: 60px 0px; */
+   /*  height: 410px; */
+}
+
+.progress p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    padding: 20px 0px;
+    text-transform: uppercase;
+}
+
+.progress-bar{
+    width: 500px;
+    height: 19px;
+    background-color: #c4c4c4;
+    border-radius: 1.5em;
+    /* position: relative; */
+}
+
+.progress-bar::before{
+    content: attr(data-label);
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    /* position: absolute; */
+    width: 65%;
+    background-color: #272727;
+    border-radius: 1.5em;
+    color: #272727;
+}
+.progress-bar2{
+    width: 500px;
+    height: 19px;
+    background-color: #c4c4c4;
+    border-radius: 1.5em;
+    /* position: relative; */
+}
+
+.progress-bar2::before{
+    content: attr(data-label);
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    /* position: absolute; */
+    width: 90%;
+    background-color: #272727;
+    border-radius: 1.5em;
+    color: #272727;
+}
+
+.progress-bar3{
+    width: 500px;
+    height: 19px;
+    background-color: #c4c4c4;
+    border-radius: 1.5em;
+    /* position: relative; */
+}
+
+.progress-bar3::before{
+    content: attr(data-label);
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    /* position: absolute; */
+    width: 30%;
+    background-color: #272727;
+    border-radius: 1.5em;
+    color: #272727;
+}
+
+/* CONHEÇA MEUS TRABALHOS :P */
+
+.meus-trab{
+    width: 100%;
+    height: 550px;
+    background-color: #f5f5f5; 
+}
+
+.conheca p {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-family:'Roboto';
+    font-weight: 500;
+    font-size:25px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.fotos{
+    display: flex;
+    justify-content: center;
+}
+
+.fotos img{
+     width: auto;
+     height: 400px;
+     margin: 0px 5px;
+}
+
+.f1:hover {
+    transition: 0.3s;
+    transform: scale(1.1);
+    box-shadow: 5px 2px 8px 2px;
+}
+
+.f2:hover {
+    transition: 0.3s;
+    transform: scale(1.1);
+    box-shadow: 5px 2px 8px 2px;
+}
+
+.f3:hover {
+    transition: 0.3s;
+    transform: scale(1.1);
+    box-shadow: 5px 2px 8px 2px;
+}
+
+.f4:hover {
+    transition: 0.3s;
+    transform: scale(1.1);
+    box-shadow: 5px 2px 8px 2px;
+}
+
+/* RODAPÉ*/
+
+footer{
+    width: 100%;
+    height: 130px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 500;
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer ul{
+    list-style: none;
+    width: 450px;
+    height: 2em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #272727;
+}
+
+.footer a:hover{
+    color: aquamarine;
+    font-weight: 600;
+}

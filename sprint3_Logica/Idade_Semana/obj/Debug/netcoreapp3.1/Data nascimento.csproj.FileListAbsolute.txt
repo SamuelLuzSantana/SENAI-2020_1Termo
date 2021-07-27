@@ -1,0 +1,13 @@
+C:\Users\dev\Documents\c# - tarde\Data nascimento\obj\Debug\netcoreapp3.1\Data nascimento.csprojAssemblyReference.cache
+C:\Users\dev\Documents\c# - tarde\Data nascimento\obj\Debug\netcoreapp3.1\Data nascimento.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\c# - tarde\Data nascimento\obj\Debug\netcoreapp3.1\Data nascimento.AssemblyInfo.cs
+C:\Users\dev\Documents\c# - tarde\Data nascimento\obj\Debug\netcoreapp3.1\Data nascimento.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\c# - tarde\Data nascimento\bin\Debug\netcoreapp3.1\Data nascimento.exe
+C:\Users\dev\Documents\c# - tarde\Data nascimento\bin\Debug\netcoreapp3.1\Data nascimento.deps.json
+C:\Users\dev\Documents\c# - tarde\Data nascimento\bin\Debug\netcoreapp3.1\Data nascimento.runtimeconfig.json
+C:\Users\dev\Documents\c# - tarde\Data nascimento\bin\Debug\netcoreapp3.1\Data nascimento.runtimeconfig.dev.json
+C:\Users\dev\Documents\c# - tarde\Data nascimento\bin\Debug\netcoreapp3.1\Data nascimento.dll
+C:\Users\dev\Documents\c# - tarde\Data nascimento\bin\Debug\netcoreapp3.1\Data nascimento.pdb
+C:\Users\dev\Documents\c# - tarde\Data nascimento\obj\Debug\netcoreapp3.1\Data nascimento.dll
+C:\Users\dev\Documents\c# - tarde\Data nascimento\obj\Debug\netcoreapp3.1\Data nascimento.pdb
+C:\Users\dev\Documents\c# - tarde\Data nascimento\obj\Debug\netcoreapp3.1\Data nascimento.genruntimeconfig.cache

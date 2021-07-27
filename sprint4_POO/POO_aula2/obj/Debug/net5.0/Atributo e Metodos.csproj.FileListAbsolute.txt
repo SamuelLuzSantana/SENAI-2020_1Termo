@@ -1,0 +1,16 @@
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\bin\Debug\net5.0\Atributo e Metodos.exe
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\bin\Debug\net5.0\Atributo e Metodos.deps.json
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\bin\Debug\net5.0\Atributo e Metodos.runtimeconfig.json
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\bin\Debug\net5.0\Atributo e Metodos.runtimeconfig.dev.json
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\bin\Debug\net5.0\Atributo e Metodos.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\bin\Debug\net5.0\ref\Atributo e Metodos.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\bin\Debug\net5.0\Atributo e Metodos.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\obj\Debug\net5.0\Atributo e Metodos.csprojAssemblyReference.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\obj\Debug\net5.0\Atributo e Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\obj\Debug\net5.0\Atributo e Metodos.AssemblyInfoInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\obj\Debug\net5.0\Atributo e Metodos.AssemblyInfo.cs
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\obj\Debug\net5.0\Atributo e Metodos.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\obj\Debug\net5.0\Atributo e Metodos.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\obj\Debug\net5.0\ref\Atributo e Metodos.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\obj\Debug\net5.0\Atributo e Metodos.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Orientada a Objetos\Atributo e Metodos\obj\Debug\net5.0\Atributo e Metodos.genruntimeconfig.cache

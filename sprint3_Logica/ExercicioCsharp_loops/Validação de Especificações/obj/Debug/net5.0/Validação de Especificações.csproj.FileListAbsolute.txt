@@ -1,0 +1,16 @@
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\bin\Debug\net5.0\Validação de Especificações.exe
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\bin\Debug\net5.0\Validação de Especificações.deps.json
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\bin\Debug\net5.0\Validação de Especificações.runtimeconfig.json
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\bin\Debug\net5.0\Validação de Especificações.runtimeconfig.dev.json
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\bin\Debug\net5.0\Validação de Especificações.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\bin\Debug\net5.0\ref\Validação de Especificações.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\bin\Debug\net5.0\Validação de Especificações.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\obj\Debug\net5.0\Validação de Especificações.csprojAssemblyReference.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\obj\Debug\net5.0\Validação de Especificações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\obj\Debug\net5.0\Validação de Especificações.AssemblyInfoInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\obj\Debug\net5.0\Validação de Especificações.AssemblyInfo.cs
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\obj\Debug\net5.0\Validação de Especificações.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\obj\Debug\net5.0\Validação de Especificações.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\obj\Debug\net5.0\ref\Validação de Especificações.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\obj\Debug\net5.0\Validação de Especificações.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Especificações\obj\Debug\net5.0\Validação de Especificações.genruntimeconfig.cache

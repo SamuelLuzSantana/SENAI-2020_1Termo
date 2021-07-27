@@ -1,0 +1,16 @@
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\bin\Debug\net5.0\POO celular.exe
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\bin\Debug\net5.0\POO celular.deps.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\bin\Debug\net5.0\POO celular.runtimeconfig.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\bin\Debug\net5.0\POO celular.runtimeconfig.dev.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\bin\Debug\net5.0\POO celular.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\bin\Debug\net5.0\ref\POO celular.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\bin\Debug\net5.0\POO celular.pdb
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\obj\Debug\net5.0\POO celular.csprojAssemblyReference.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\obj\Debug\net5.0\POO celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\obj\Debug\net5.0\POO celular.AssemblyInfoInputs.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\obj\Debug\net5.0\POO celular.AssemblyInfo.cs
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\obj\Debug\net5.0\POO celular.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\obj\Debug\net5.0\POO celular.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\obj\Debug\net5.0\ref\POO celular.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\obj\Debug\net5.0\POO celular.pdb
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Sistema Orientado a Objetos\POO celular\obj\Debug\net5.0\POO celular.genruntimeconfig.cache

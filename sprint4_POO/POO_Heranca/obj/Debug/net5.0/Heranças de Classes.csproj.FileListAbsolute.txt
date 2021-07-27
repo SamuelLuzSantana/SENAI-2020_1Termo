@@ -1,0 +1,16 @@
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\bin\Debug\net5.0\Heranças de Classes.exe
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\bin\Debug\net5.0\Heranças de Classes.deps.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\bin\Debug\net5.0\Heranças de Classes.runtimeconfig.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\bin\Debug\net5.0\Heranças de Classes.runtimeconfig.dev.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\bin\Debug\net5.0\Heranças de Classes.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\bin\Debug\net5.0\ref\Heranças de Classes.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\bin\Debug\net5.0\Heranças de Classes.pdb
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\obj\Debug\net5.0\Heranças de Classes.csprojAssemblyReference.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\obj\Debug\net5.0\Heranças de Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\obj\Debug\net5.0\Heranças de Classes.AssemblyInfoInputs.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\obj\Debug\net5.0\Heranças de Classes.AssemblyInfo.cs
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\obj\Debug\net5.0\Heranças de Classes.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\obj\Debug\net5.0\Heranças de Classes.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\obj\Debug\net5.0\ref\Heranças de Classes.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\obj\Debug\net5.0\Heranças de Classes.pdb
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\Heranças de Classes\obj\Debug\net5.0\Heranças de Classes.genruntimeconfig.cache

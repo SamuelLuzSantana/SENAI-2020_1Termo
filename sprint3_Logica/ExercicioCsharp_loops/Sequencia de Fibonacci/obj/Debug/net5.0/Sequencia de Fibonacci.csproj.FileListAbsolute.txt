@@ -1,0 +1,16 @@
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\bin\Debug\net5.0\Sequencia de Fibonacci.exe
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\bin\Debug\net5.0\Sequencia de Fibonacci.deps.json
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\bin\Debug\net5.0\Sequencia de Fibonacci.runtimeconfig.json
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\bin\Debug\net5.0\Sequencia de Fibonacci.runtimeconfig.dev.json
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\bin\Debug\net5.0\Sequencia de Fibonacci.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\bin\Debug\net5.0\ref\Sequencia de Fibonacci.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\bin\Debug\net5.0\Sequencia de Fibonacci.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.csprojAssemblyReference.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.AssemblyInfoInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.AssemblyInfo.cs
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\obj\Debug\net5.0\ref\Sequencia de Fibonacci.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.genruntimeconfig.cache

@@ -1,0 +1,2 @@
+#Estudo de Operacoes matemáticas
+Estudo C# desenvolvido no curso de Desenvolvimento de Sistemas do SENAI onde Quando digitamos o numero 1 e numero 2 e selecionamos o tipo de operação é mostrado o resultado.

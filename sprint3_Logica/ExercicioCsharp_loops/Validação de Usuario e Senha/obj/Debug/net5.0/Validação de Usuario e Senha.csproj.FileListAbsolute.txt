@@ -1,0 +1,16 @@
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\bin\Debug\net5.0\Validação de Usuario e Senha.exe
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\bin\Debug\net5.0\Validação de Usuario e Senha.deps.json
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\bin\Debug\net5.0\Validação de Usuario e Senha.runtimeconfig.json
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\bin\Debug\net5.0\Validação de Usuario e Senha.runtimeconfig.dev.json
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\bin\Debug\net5.0\Validação de Usuario e Senha.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\bin\Debug\net5.0\ref\Validação de Usuario e Senha.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\bin\Debug\net5.0\Validação de Usuario e Senha.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\obj\Debug\net5.0\Validação de Usuario e Senha.csprojAssemblyReference.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\obj\Debug\net5.0\Validação de Usuario e Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\obj\Debug\net5.0\Validação de Usuario e Senha.AssemblyInfoInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\obj\Debug\net5.0\Validação de Usuario e Senha.AssemblyInfo.cs
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\obj\Debug\net5.0\Validação de Usuario e Senha.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\obj\Debug\net5.0\Validação de Usuario e Senha.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\obj\Debug\net5.0\ref\Validação de Usuario e Senha.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\obj\Debug\net5.0\Validação de Usuario e Senha.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Usuario e Senha\obj\Debug\net5.0\Validação de Usuario e Senha.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\bin\Debug\net5.0\Validação de Numero.exe
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\bin\Debug\net5.0\Validação de Numero.deps.json
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\bin\Debug\net5.0\Validação de Numero.runtimeconfig.json
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\bin\Debug\net5.0\Validação de Numero.runtimeconfig.dev.json
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\bin\Debug\net5.0\Validação de Numero.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\bin\Debug\net5.0\ref\Validação de Numero.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\bin\Debug\net5.0\Validação de Numero.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\obj\Debug\net5.0\Validação de Numero.csprojAssemblyReference.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\obj\Debug\net5.0\Validação de Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\obj\Debug\net5.0\Validação de Numero.AssemblyInfoInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\obj\Debug\net5.0\Validação de Numero.AssemblyInfo.cs
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\obj\Debug\net5.0\Validação de Numero.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\obj\Debug\net5.0\Validação de Numero.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\obj\Debug\net5.0\ref\Validação de Numero.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\obj\Debug\net5.0\Validação de Numero.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Laços de Repetição\Validação de Numero\obj\Debug\net5.0\Validação de Numero.genruntimeconfig.cache

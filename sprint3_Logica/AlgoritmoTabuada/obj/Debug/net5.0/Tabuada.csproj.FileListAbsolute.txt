@@ -1,0 +1,16 @@
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\obj\Debug\net5.0\Tabuada.csprojAssemblyReference.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\obj\Debug\net5.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfo.cs
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\obj\Debug\net5.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\bin\Debug\net5.0\Tabuada.exe
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\bin\Debug\net5.0\Tabuada.deps.json
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.json
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.dev.json
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\bin\Debug\net5.0\Tabuada.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\bin\Debug\net5.0\ref\Tabuada.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\bin\Debug\net5.0\Tabuada.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\obj\Debug\net5.0\Tabuada.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\obj\Debug\net5.0\ref\Tabuada.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\obj\Debug\net5.0\Tabuada.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Tabuada\obj\Debug\net5.0\Tabuada.genruntimeconfig.cache

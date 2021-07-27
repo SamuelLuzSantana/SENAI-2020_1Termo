@@ -1,0 +1,16 @@
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\bin\Debug\net5.0\Algortimo Salario.exe
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\bin\Debug\net5.0\Algortimo Salario.deps.json
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\bin\Debug\net5.0\Algortimo Salario.runtimeconfig.json
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\bin\Debug\net5.0\Algortimo Salario.runtimeconfig.dev.json
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\bin\Debug\net5.0\Algortimo Salario.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\bin\Debug\net5.0\ref\Algortimo Salario.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\bin\Debug\net5.0\Algortimo Salario.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\obj\Debug\net5.0\Algortimo Salario.csprojAssemblyReference.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\obj\Debug\net5.0\Algortimo Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\obj\Debug\net5.0\Algortimo Salario.AssemblyInfoInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\obj\Debug\net5.0\Algortimo Salario.AssemblyInfo.cs
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\obj\Debug\net5.0\Algortimo Salario.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\obj\Debug\net5.0\Algortimo Salario.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\obj\Debug\net5.0\ref\Algortimo Salario.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\obj\Debug\net5.0\Algortimo Salario.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Algortimo Salario\obj\Debug\net5.0\Algortimo Salario.genruntimeconfig.cache

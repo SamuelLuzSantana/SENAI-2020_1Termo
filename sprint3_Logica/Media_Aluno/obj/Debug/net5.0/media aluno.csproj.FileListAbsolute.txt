@@ -1,0 +1,16 @@
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\obj\Debug\net5.0\media aluno.csprojAssemblyReference.cache
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\obj\Debug\net5.0\media aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\obj\Debug\net5.0\media aluno.AssemblyInfoInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\obj\Debug\net5.0\media aluno.AssemblyInfo.cs
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\obj\Debug\net5.0\media aluno.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\bin\Debug\net5.0\media aluno.exe
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\bin\Debug\net5.0\media aluno.deps.json
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\bin\Debug\net5.0\media aluno.runtimeconfig.json
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\bin\Debug\net5.0\media aluno.runtimeconfig.dev.json
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\bin\Debug\net5.0\media aluno.dll
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\bin\Debug\net5.0\ref\media aluno.dll
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\bin\Debug\net5.0\media aluno.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\obj\Debug\net5.0\media aluno.dll
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\obj\Debug\net5.0\ref\media aluno.dll
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\obj\Debug\net5.0\media aluno.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\media aluno\obj\Debug\net5.0\media aluno.genruntimeconfig.cache
